@@ -1,1 +1,1 @@
-# SQLi-Scripts
+# SQLi Scripts for IRC
